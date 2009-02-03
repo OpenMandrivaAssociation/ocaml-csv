@@ -1,6 +1,6 @@
 Name:           ocaml-csv
 Version:        1.1.7
-Release:        %mkrel 1
+Release:        %mkrel 2
 Summary:        OCaml library for reading and writing CSV files
 
 Group:          Development/Other
