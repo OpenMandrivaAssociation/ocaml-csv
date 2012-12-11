@@ -94,3 +94,25 @@ rm -rf %{buildroot}
 %{_libdir}/ocaml/csv/*.mli
 
 
+
+
+%changelog
+* Sun Jun 28 2009 Guillaume Rousse <guillomovitch@mandriva.org> 1.1.7-3mdv2010.0
++ Revision: 390240
+- rebuild
+
+* Tue Feb 03 2009 Florent Monnier <blue_prawn@mandriva.org> 1.1.7-2mdv2010.0
++ Revision: 337139
+- The initial RPM release was made from the fedora rpm .spec file (revision 1.9) by Richard W.M. Jones
+
+* Tue Jan 06 2009 Florent Monnier <blue_prawn@mandriva.org> 1.1.7-1mdv2009.1
++ Revision: 326204
+- import ocaml-csv
+
+
+* Sat Dec 20 2008 Florent Monnier <fmonnier@linux-nantes.org> 1.1.7-1mdv
+- Initial RPM release made from the fedora rpm .spec file (revision 1.9) by Richard W.M. Jones
+# found there: http://cvs.fedoraproject.org/viewvc/devel/ocaml-csv/
+# csv-extlib.patch : rev 1.1
+# csv-install.patch : rev 1.2
+# ocaml-csv.spec : rev 1.9
