@@ -4,7 +4,7 @@
 Summary:	OCaml library for reading and writing CSV files
 Name:		ocaml-csv
 Version:	1.3.3
-Release:	1
+Release:	2
 License:	LGPLv2+
 Group:		Development/Other
 Url:		http://forge.ocamlcore.org/projects/csv/
