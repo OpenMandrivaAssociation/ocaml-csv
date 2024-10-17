@@ -7,7 +7,7 @@ Version:	1.3.3
 Release:	2
 License:	LGPLv2+
 Group:		Development/Other
-Url:		http://forge.ocamlcore.org/projects/csv/
+Url:		https://forge.ocamlcore.org/projects/csv/
 Source0:	http://forge.ocamlcore.org/frs/download.php/1235/csv-%{version}.tar.gz
 BuildRequires:	ocaml
 BuildRequires:	ocaml-findlib
